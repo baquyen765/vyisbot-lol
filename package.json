@@ -1,0 +1,12 @@
+{
+	"name": "vyisbot",
+	"version": "alpha0.0.1",
+	"description": "vyishere's bot!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "vyishere",
+	"license": "ISC"
+}
