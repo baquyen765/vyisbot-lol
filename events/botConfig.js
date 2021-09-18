@@ -1,5 +1,5 @@
 module.exports = {
-    token: "ODg3MTM4NTI2MDI0NTk3NTY0.YT_yIg.3_-tE-nGXzfknqafmc7QRTeJfvo",
+    token: "    ",  //token here
     prefix: "v!",
     "emoji": {
         "play": "▶️",
